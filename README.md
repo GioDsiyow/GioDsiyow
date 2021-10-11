@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GioDsiyow
-- 👀 I’m interested in ...
+- 👀 I’m interested in Blockchain tech and Data Science for Fintech applications
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 GioDsiyow/GioDsiyow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
